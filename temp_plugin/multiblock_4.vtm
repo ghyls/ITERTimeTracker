@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" name="Nodes" file="multiblock_4/multiblock_4_0.vtp"/>
+    <DataSet index="1" name="Faces" file="multiblock_4/multiblock_4_1.vtp"/>
+    <DataSet index="2" name="x-aligned faces" file="multiblock_4/multiblock_4_2.vtp"/>
+    <DataSet index="3" name="y-aligned faces" file="multiblock_4/multiblock_4_3.vtp"/>
+    <DataSet index="4" name="Cells" file="multiblock_4/multiblock_4_4.vtp"/>
+    <DataSet index="5" name="x-points" file="multiblock_4/multiblock_4_5.vtp"/>
+    <DataSet index="6" name="Core" file="multiblock_4/multiblock_4_6.vtp"/>
+    <DataSet index="7" name="SOL" file="multiblock_4/multiblock_4_7.vtp"/>
+    <DataSet index="8" name="Inner divertor" file="multiblock_4/multiblock_4_8.vtp"/>
+    <DataSet index="9" name="Outer divertor" file="multiblock_4/multiblock_4_9.vtp"/>
+    <DataSet index="10" name="Inner target" file="multiblock_4/multiblock_4_10.vtp"/>
+    <DataSet index="11" name="Inner throat" file="multiblock_4/multiblock_4_11.vtp"/>
+    <DataSet index="12" name="Outer throat" file="multiblock_4/multiblock_4_12.vtp"/>
+    <DataSet index="13" name="Outer target" file="multiblock_4/multiblock_4_13.vtp"/>
+    <DataSet index="14" name="Core cut" file="multiblock_4/multiblock_4_14.vtp"/>
+    <DataSet index="15" name="PFR cut" file="multiblock_4/multiblock_4_15.vtp"/>
+    <DataSet index="16" name="Inner PFR wall" file="multiblock_4/multiblock_4_16.vtp"/>
+    <DataSet index="17" name="Core boundary" file="multiblock_4/multiblock_4_17.vtp"/>
+    <DataSet index="18" name="Outer PFR wall" file="multiblock_4/multiblock_4_18.vtp"/>
+    <DataSet index="19" name="Separatrix" file="multiblock_4/multiblock_4_19.vtp"/>
+    <DataSet index="20" name="Inner baffle" file="multiblock_4/multiblock_4_20.vtp"/>
+    <DataSet index="21" name="Main chamber wall" file="multiblock_4/multiblock_4_21.vtp"/>
+    <DataSet index="22" name="Outer baffle" file="multiblock_4/multiblock_4_22.vtp"/>
+    <DataSet index="23" name="Inner Midplane" file="multiblock_4/multiblock_4_23.vtp"/>
+    <DataSet index="24" name="Outer Midplane" file="multiblock_4/multiblock_4_24.vtp"/>
+  </vtkMultiBlockDataSet>
+</VTKFile>
